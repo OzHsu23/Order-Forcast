@@ -1,5 +1,6 @@
 # Order-Forecast
-### DataSet is from https://www.kaggle.com/felixzhao/productdemandforecasting/kernels and I clean it and choose the biggest warehouse:Whse_J for our forecast data
+### DataSet:https://www.kaggle.com/felixzhao/productdemandforecasting/kernels 
+I clean it to Whse_J_sort_out_index.csv and choose the biggest warehouse:Whse_J for our forecast data
 
 ### The loss function : Symmetric mean absoulte precentage error(SMAPE)
 
