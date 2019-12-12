@@ -8,4 +8,4 @@ I clean it  and choose the biggest warehouse:Whse_J for our forecast data: Whse_
 The best is next three months:SMAPE:59.09(Baseline)
 
 ### Second, I used stateful LSTM to predict same product on next month, next two months, and next three months.
-The best is next three months:SMAPE:44.84(It's better than our baseline)
+The best is next three months:SMAPE:44.84(It's better than the baseline)
